@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hoverImg {
+  width: 100%;
+  transform:  scale(1.2);
+}
+
+.transition-bg {
+  transition: .5s all ease-in-out;
+}
